@@ -1,3 +1,3 @@
 FROM ubuntu
 
-ADD folder/ folder/
+ADD folder3/ folder/
