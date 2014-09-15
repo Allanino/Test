@@ -1,3 +1,5 @@
 FROM ubuntu
 
-ADD folder/ folder/
+VOLUME /data/ai_clusters
+
+CMD ["/bin/bash"]
