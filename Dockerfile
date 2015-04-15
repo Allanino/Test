@@ -1,5 +1,3 @@
-FROM ubuntu
+FROM gliderlabs/alpine:3.1
 
-VOLUME /data/ai_clusters
-
-CMD ["/bin/bash"]
+MAINTAINER Allan Costa "allan@cloudwalk.io"
